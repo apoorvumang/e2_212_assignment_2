@@ -1,2 +1,2 @@
-# e2_212_assignment_2
+# E2-212 Assignment 2
 Eigenfaces implementation for Matrix Theory Assignment 2
